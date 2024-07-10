@@ -1,4 +1,4 @@
-從ZeroJudge找來的UVa題目練習，順序皆照"UVa題庫"的順序解題
+從ZeroJudge找來的UVa題目練習，照"UVa題庫"的順序解題
 
 解題前可先輸入
 
